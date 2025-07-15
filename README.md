@@ -34,7 +34,7 @@ Congratulations! You've won a $1000 Walmart gift card. Click here to claim now.
 # 🔧 Setup Instructions
 ## 1.Clone this repository:
 ```
-git clone https://github.com/Erra-Sanjana/MS-AICTE-INTERNSHIP.git
+git clone https://github.com/Thodendula Madhusha Yadav/MS-AICTE-INTERNSHIP.git
 cd spam-sms-detector
 ```
 ## 2.Install dependencies:
